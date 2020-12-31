@@ -1,0 +1,1396 @@
+
+Number of Characters: 2
+
+Chars: V  Frequency: 2 Factors: [1, 2, 227, 454] Distance: 454
+Chars:  K Frequency: 3 Factors: [1, 3, 9] Distance: 9
+Chars: KL Frequency: 2 Factors: [1, 347] Distance: 347
+Chars: FG Frequency: 2 Factors: [1, 2, 4, 5, 10, 20, 23, 46, 92, 115, 230, 460] Distance: 460
+Chars: GZ Frequency: 3 Factors: [1, 3, 5, 15, 25, 75, 125, 375] Distance: 375
+Chars: ZX Frequency: 2 Factors: [1, 2, 4, 7, 8, 14, 16, 28, 32, 56, 112, 224] Distance: 224
+Chars: XS Frequency: 2 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: SH Frequency: 4 Factors: [1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 27, 36, 54, 72, 108, 216] Distance: 216
+Chars: H  Frequency: 3 Factors: [1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 27, 36, 54, 72, 108, 216] Distance: 216
+Chars:  K Frequency: 3 Factors: [1, 3, 9] Distance: 9
+Chars: KM Frequency: 3 Factors: [1, 2, 173, 346] Distance: 346
+Chars: ML Frequency: 3 Factors: [1, 3, 157, 471] Distance: 471
+Chars: LT Frequency: 2 Factors: [1, 2, 3, 4, 6, 8, 12, 23, 24, 46, 69, 92, 138, 184, 276, 552] Distance: 552
+Chars: TW Frequency: 2 Factors: [1, 271] Distance: 271
+Chars: DU Frequency: 4 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: UA Frequency: 3 Factors: [1, 5, 11, 25, 55, 275] Distance: 275
+Chars: AZ Frequency: 4 Factors: [1, 2, 4, 8, 13, 16, 26, 52, 104, 208] Distance: 208
+Chars: ZW Frequency: 8 Factors: [1, 13] Distance: 13
+Chars: WN Frequency: 5 Factors: [1, 59] Distance: 59
+Chars: NZ Frequency: 5 Factors: [1, 2, 4, 5, 10, 20] Distance: 20
+Chars: BE Frequency: 3 Factors: [1, 163] Distance: 163
+Chars: RS Frequency: 2 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: SS Frequency: 5 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: SI Frequency: 4 Factors: [1, 2, 5, 10, 17, 34, 85, 170] Distance: 170
+Chars: XY Frequency: 4 Factors: [1, 2, 19, 38] Distance: 38
+Chars: YZ Frequency: 4 Factors: [1, 5, 73, 365] Distance: 365
+Chars: ZW Frequency: 8 Factors: [1, 13] Distance: 13
+Chars: WG Frequency: 6 Factors: [1, 2, 4, 23, 46, 92] Distance: 92
+Chars: GK Frequency: 2 Factors: [1, 2, 3, 6, 7, 14, 19, 21, 38, 42, 57, 114, 133, 266, 399, 798] Distance: 798
+Chars: KT Frequency: 2 Factors: [1, 5, 25, 31, 155, 775] Distance: 775
+Chars: TU Frequency: 7 Factors: [1, 2, 11, 22] Distance: 22
+Chars: UE Frequency: 3 Factors: [1, 2, 5, 10, 13, 26, 65, 130] Distance: 130
+Chars: EH Frequency: 3 Factors: [1, 5] Distance: 5
+Chars: HP Frequency: 4 Factors: [1, 5] Distance: 5
+Chars: PN Frequency: 3 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: NZ Frequency: 5 Factors: [1, 2, 4, 5, 10, 20] Distance: 20
+Chars: ZE Frequency: 3 Factors: [1, 7, 11, 77] Distance: 77
+Chars: EH Frequency: 3 Factors: [1, 5] Distance: 5
+Chars: HP Frequency: 4 Factors: [1, 5] Distance: 5
+Chars: PO Frequency: 5 Factors: [1, 5, 19, 95] Distance: 95
+Chars: XT Frequency: 5 Factors: [1, 173] Distance: 173
+Chars: TS Frequency: 2 Factors: [1, 173] Distance: 173
+Chars: SW Frequency: 4 Factors: [1, 29] Distance: 29
+Chars: WZ Frequency: 5 Factors: [1, 5, 29, 145] Distance: 145
+Chars: ZB Frequency: 5 Factors: [1, 3, 5, 9, 15, 27, 45, 135] Distance: 135
+Chars: BX Frequency: 3 Factors: [1, 3, 5, 15, 31, 93, 155, 465] Distance: 465
+Chars: VN Frequency: 4 Factors: [1, 37] Distance: 37
+Chars: DU Frequency: 4 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: UT Frequency: 3 Factors: [1, 5, 11, 55] Distance: 55
+Chars: TU Frequency: 7 Factors: [1, 2, 11, 22] Distance: 22
+Chars:  F Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: FX Frequency: 4 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: XG Frequency: 6 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: GT Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: TL Frequency: 4 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: L  Frequency: 4 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars:  N Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: NX Frequency: 3 Factors: [1, 5, 43, 215] Distance: 215
+Chars: XY Frequency: 4 Factors: [1, 2, 19, 38] Distance: 38
+Chars: YW Frequency: 2 Factors: [1, 2, 4, 5, 10, 19, 20, 38, 76, 95, 190, 380] Distance: 380
+Chars: WY Frequency: 4 Factors: [1, 2, 4, 5, 7, 8, 10, 14, 20, 28, 35, 40, 56, 70, 140, 280] Distance: 280
+Chars: YX Frequency: 5 Factors: [1, 2, 23, 46] Distance: 46
+Chars: LJ Frequency: 3 Factors: [1, 5, 113, 565] Distance: 565
+Chars: ZS Frequency: 5 Factors: [1, 5, 97, 485] Distance: 485
+Chars: SW Frequency: 4 Factors: [1, 29] Distance: 29
+Chars: WN Frequency: 5 Factors: [1, 59] Distance: 59
+Chars: NG Frequency: 6 Factors: [1, 2, 3, 4, 6, 12] Distance: 12
+Chars: GX Frequency: 9 Factors: [1, 2, 7, 14, 49, 98] Distance: 98
+Chars: XL Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: LP Frequency: 4 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: PZ Frequency: 4 Factors: [1, 3, 5, 15] Distance: 15
+Chars: ZK Frequency: 4 Factors: [1, 67] Distance: 67
+Chars: KU Frequency: 8 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: UV Frequency: 4 Factors: [1, 3] Distance: 3
+Chars: YU Frequency: 3 Factors: [1, 2, 11, 22] Distance: 22
+Chars: UV Frequency: 4 Factors: [1, 3] Distance: 3
+Chars: VN Frequency: 4 Factors: [1, 37] Distance: 37
+Chars: NG Frequency: 6 Factors: [1, 2, 3, 4, 6, 12] Distance: 12
+Chars: GN Frequency: 3 Factors: [1, 293] Distance: 293
+Chars: NG Frequency: 6 Factors: [1, 3, 5, 15] Distance: 15
+Chars: PZ Frequency: 4 Factors: [1, 3, 5, 15] Distance: 15
+Chars: FV Frequency: 4 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: VD Frequency: 4 Factors: [1, 2, 5, 10, 31, 62, 155, 310] Distance: 310
+Chars: NK Frequency: 7 Factors: [1, 2, 3, 4, 6, 8, 12, 16, 24, 32, 48, 96] Distance: 96
+Chars: KX Frequency: 3 Factors: [1, 2, 5, 7, 10, 14, 25, 35, 50, 70, 175, 350] Distance: 350
+Chars: XC Frequency: 2 Factors: [1, 2, 5, 7, 10, 14, 25, 35, 50, 70, 175, 350] Distance: 350
+Chars: CL Frequency: 3 Factors: [1, 3, 9, 59, 177, 531] Distance: 531
+Chars: LO Frequency: 8 Factors: [1, 3, 5, 15, 17, 51, 85, 255] Distance: 255
+Chars: OI Frequency: 3 Factors: [1, 2, 4, 8, 16, 32] Distance: 32
+Chars: YU Frequency: 3 Factors: [1, 2, 11, 22] Distance: 22
+Chars: UT Frequency: 3 Factors: [1, 5, 11, 55] Distance: 55
+Chars: TY Frequency: 2 Factors: [1, 5, 7, 35] Distance: 35
+Chars: YA Frequency: 2 Factors: [1, 2, 5, 10, 13, 26, 65, 130] Distance: 130
+Chars: AF Frequency: 5 Factors: [1, 2, 4, 5, 10, 20, 25, 50, 100] Distance: 100
+Chars: YX Frequency: 5 Factors: [1, 2, 23, 46] Distance: 46
+Chars: XZ Frequency: 7 Factors: [1, 2, 4, 8, 31, 62, 124, 248] Distance: 248
+Chars: ZE Frequency: 3 Factors: [1, 7, 11, 77] Distance: 77
+Chars: HX Frequency: 2 Factors: [1, 5, 23, 25, 115, 575] Distance: 575
+Chars: KW Frequency: 2 Factors: [1, 2, 5, 7, 10, 14, 35, 70] Distance: 70
+Chars: WG Frequency: 6 Factors: [1, 2, 4, 23, 46, 92] Distance: 92
+Chars: GL Frequency: 2 Factors: [1, 2, 17, 34, 289, 578] Distance: 578
+Chars: LG Frequency: 5 Factors: [1, 7, 23, 161] Distance: 161
+Chars: AJ Frequency: 3 Factors: [1, 2, 3, 4, 6, 7, 12, 14, 21, 28, 42, 84] Distance: 84
+Chars: JU Frequency: 2 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: UV Frequency: 4 Factors: [1, 3, 5, 9, 15, 45] Distance: 45
+Chars: VV Frequency: 3 Factors: [1, 11, 29, 319] Distance: 319
+Chars: IV Frequency: 5 Factors: [1, 5, 25] Distance: 25
+Chars: OL Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 150] Distance: 150
+Chars: HP Frequency: 4 Factors: [1, 2, 4, 5, 10, 20, 25, 50, 100] Distance: 100
+Chars: PO Frequency: 5 Factors: [1, 5, 19, 95] Distance: 95
+Chars: OI Frequency: 3 Factors: [1, 2, 4, 8, 16, 32] Distance: 32
+Chars: IF Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: HH Frequency: 2 Factors: [1, 3, 5, 7, 15, 21, 35, 105] Distance: 105
+Chars: HF Frequency: 3 Factors: [1, 2, 4, 7, 14, 17, 28, 34, 68, 119, 238, 476] Distance: 476
+Chars: BT Frequency: 3 Factors: [1, 3, 5, 15, 31, 93, 155, 465] Distance: 465
+Chars: TY Frequency: 2 Factors: [1, 5, 7, 35] Distance: 35
+Chars: ZK Frequency: 4 Factors: [1, 67] Distance: 67
+Chars: ZW Frequency: 8 Factors: [1, 3, 5, 9, 15, 27, 45, 135] Distance: 135
+Chars: WG Frequency: 6 Factors: [1, 2, 61, 122] Distance: 122
+Chars: GM Frequency: 2 Factors: [1, 5, 13, 25, 65, 325] Distance: 325
+Chars: KA Frequency: 2 Factors: [1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 32, 36, 48, 72, 96, 144, 288] Distance: 288
+Chars: AI Frequency: 3 Factors: [1, 3, 9, 11, 33, 99] Distance: 99
+Chars: IV Frequency: 5 Factors: [1, 5, 25] Distance: 25
+Chars: VN Frequency: 4 Factors: [1, 107] Distance: 107
+Chars: NA Frequency: 6 Factors: [1, 2, 5, 10, 25, 50] Distance: 50
+Chars: AV Frequency: 3 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: VJ Frequency: 6 Factors: [1, 2, 4, 7, 14, 28] Distance: 28
+Chars: YU Frequency: 3 Factors: [1, 7, 11, 77] Distance: 77
+Chars: UE Frequency: 3 Factors: [1, 2, 5, 10, 13, 26, 65, 130] Distance: 130
+Chars: EH Frequency: 3 Factors: [1, 2, 5, 10, 13, 26, 65, 130] Distance: 130
+Chars: HG Frequency: 2 Factors: [1, 2, 4, 5, 10, 20, 25, 50, 100] Distance: 100
+Chars: GO Frequency: 2 Factors: [1, 2, 4] Distance: 4
+Chars: OH Frequency: 2 Factors: [1, 5, 25, 125] Distance: 125
+Chars: ZG Frequency: 5 Factors: [1, 3, 23, 69] Distance: 69
+Chars: GO Frequency: 2 Factors: [1, 2, 4] Distance: 4
+Chars: X  Frequency: 4 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars:  G Frequency: 2 Factors: [1, 2, 197, 394] Distance: 394
+Chars: GX Frequency: 9 Factors: [1, 2, 7, 14, 49, 98] Distance: 98
+Chars: XR Frequency: 3 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: RA Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: AG Frequency: 3 Factors: [1, 2, 79, 158] Distance: 158
+Chars: GY Frequency: 7 Factors: [1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60] Distance: 60
+Chars: YE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: EZ Frequency: 5 Factors: [1, 3] Distance: 3
+Chars: ZB Frequency: 5 Factors: [1, 3, 5, 9, 15, 27, 45, 135] Distance: 135
+Chars: BE Frequency: 3 Factors: [1, 163] Distance: 163
+Chars: EZ Frequency: 5 Factors: [1, 3] Distance: 3
+Chars: ZW Frequency: 8 Factors: [1, 2, 5, 10, 17, 34, 85, 170] Distance: 170
+Chars: WN Frequency: 5 Factors: [1, 2, 5, 10, 17, 34, 85, 170] Distance: 170
+Chars: VJ Frequency: 6 Factors: [1, 2, 4, 7, 14, 28] Distance: 28
+Chars: KW Frequency: 2 Factors: [1, 2, 5, 7, 10, 14, 35, 70] Distance: 70
+Chars: WZ Frequency: 5 Factors: [1, 5, 29, 145] Distance: 145
+Chars: ZI Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 25, 50, 55, 110, 275, 550] Distance: 550
+Chars: IS Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 25, 50, 55, 110, 275, 550] Distance: 550
+Chars: SI Frequency: 4 Factors: [1, 2, 5, 10, 17, 34, 85, 170] Distance: 170
+Chars: IN Frequency: 2 Factors: [1, 2, 3, 4, 6, 12] Distance: 12
+Chars: NK Frequency: 7 Factors: [1, 2, 3, 4, 6, 8, 12, 16, 24, 32, 48, 96] Distance: 96
+Chars: KV Frequency: 2 Factors: [1, 2, 4, 7, 8, 14, 16, 28, 56, 112] Distance: 112
+Chars: VC Frequency: 2 Factors: [1, 2, 151, 302] Distance: 302
+Chars: CG Frequency: 2 Factors: [1, 2, 3, 4, 6, 9, 12, 18, 27, 36, 54, 81, 108, 162, 324] Distance: 324
+Chars: GE Frequency: 4 Factors: [1, 5, 17, 85] Distance: 85
+Chars: ET Frequency: 3 Factors: [1, 5, 47, 235] Distance: 235
+Chars: TU Frequency: 7 Factors: [1, 2, 5, 10, 17, 34, 85, 170] Distance: 170
+Chars: UH Frequency: 2 Factors: [1, 3, 163, 489] Distance: 489
+Chars: HY Frequency: 2 Factors: [1, 89] Distance: 89
+Chars: YX Frequency: 5 Factors: [1, 2, 3, 6, 23, 46, 69, 138] Distance: 138
+Chars: XI Frequency: 2 Factors: [1, 2, 3, 6, 71, 142, 213, 426] Distance: 426
+Chars: IN Frequency: 2 Factors: [1, 2, 3, 4, 6, 12] Distance: 12
+Chars: NA Frequency: 6 Factors: [1, 2, 5, 10, 25, 50] Distance: 50
+Chars: AJ Frequency: 3 Factors: [1, 2, 3, 4, 6, 7, 12, 14, 21, 28, 42, 84] Distance: 84
+Chars: AF Frequency: 5 Factors: [1, 2, 4, 5, 10, 20, 25, 50, 100] Distance: 100
+Chars: FW Frequency: 4 Factors: [1, 5, 83, 415] Distance: 415
+Chars: WQ Frequency: 2 Factors: [1, 587] Distance: 587
+Chars: QG Frequency: 3 Factors: [1, 2, 3, 5, 6, 10, 11, 15, 22, 30, 33, 55, 66, 110, 165, 330] Distance: 330
+Chars: GX Frequency: 9 Factors: [1, 2, 3, 6, 23, 46, 69, 138] Distance: 138
+Chars: XT Frequency: 5 Factors: [1, 173] Distance: 173
+Chars: TS Frequency: 2 Factors: [1, 173] Distance: 173
+Chars: SS Frequency: 5 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: SH Frequency: 4 Factors: [1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 27, 36, 54, 72, 108, 216] Distance: 216
+Chars: H  Frequency: 3 Factors: [1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 27, 36, 54, 72, 108, 216] Distance: 216
+Chars:  A Frequency: 2 Factors: [1, 7, 47, 329] Distance: 329
+Chars: AZ Frequency: 4 Factors: [1, 2, 4, 8, 13, 16, 26, 52, 104, 208] Distance: 208
+Chars: JZ Frequency: 2 Factors: [1, 2, 3, 4, 6, 8, 12, 13, 24, 26, 39, 52, 78, 104, 156, 312] Distance: 312
+Chars: ZX Frequency: 2 Factors: [1, 2, 4, 7, 8, 14, 16, 28, 32, 56, 112, 224] Distance: 224
+Chars: XS Frequency: 2 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: SS Frequency: 5 Factors: [1, 5, 41, 205] Distance: 205
+Chars: SP Frequency: 3 Factors: [1, 5, 7, 13, 35, 65, 91, 455] Distance: 455
+Chars: PF Frequency: 2 Factors: [1, 5, 79, 395] Distance: 395
+Chars: FC Frequency: 2 Factors: [1, 2, 5, 10, 19, 38, 95, 190] Distance: 190
+Chars: KG Frequency: 4 Factors: [1, 3, 5, 7, 15, 21, 35, 105] Distance: 105
+Chars: GP Frequency: 3 Factors: [1, 3, 5, 7, 15, 21, 35, 105] Distance: 105
+Chars: PN Frequency: 3 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: NZ Frequency: 5 Factors: [1, 2, 4, 5, 10, 11, 20, 22, 44, 55, 110, 220] Distance: 220
+Chars: ZG Frequency: 5 Factors: [1, 3, 23, 69] Distance: 69
+Chars: GY Frequency: 7 Factors: [1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60] Distance: 60
+Chars: YA Frequency: 2 Factors: [1, 2, 5, 10, 13, 26, 65, 130] Distance: 130
+Chars: AZ Frequency: 4 Factors: [1, 227] Distance: 227
+Chars: ZC Frequency: 3 Factors: [1, 2, 4, 5, 7, 8, 10, 14, 20, 28, 35, 40, 56, 70, 140, 280] Distance: 280
+Chars: VH Frequency: 2 Factors: [1, 2, 4, 8, 16, 19, 38, 76, 152, 304] Distance: 304
+Chars: HH Frequency: 2 Factors: [1, 3, 5, 7, 15, 21, 35, 105] Distance: 105
+Chars: RS Frequency: 2 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: SS Frequency: 5 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: SW Frequency: 4 Factors: [1, 2, 3, 4, 6, 12, 17, 34, 51, 68, 102, 204] Distance: 204
+Chars: WK Frequency: 2 Factors: [1, 2, 3, 6, 71, 142, 213, 426] Distance: 426
+Chars: YM Frequency: 2 Factors: [1, 2, 241, 482] Distance: 482
+Chars: AI Frequency: 3 Factors: [1, 3, 9, 11, 33, 99] Distance: 99
+Chars: HK Frequency: 2 Factors: [1, 2, 41, 82] Distance: 82
+Chars: KU Frequency: 8 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: UL Frequency: 10 Factors: [1, 2, 4, 5, 10, 20, 25, 50, 100] Distance: 100
+Chars: LV Frequency: 2 Factors: [1, 2, 4, 47, 94, 188] Distance: 188
+Chars: VW Frequency: 2 Factors: [1, 2, 5, 10, 25, 50] Distance: 50
+Chars: WH Frequency: 3 Factors: [1, 2, 4, 5, 10, 20] Distance: 20
+Chars: LX Frequency: 5 Factors: [1, 2, 4, 8, 16, 32] Distance: 32
+Chars: XH Frequency: 2 Factors: [1, 2, 4, 8, 11, 16, 22, 32, 44, 88, 176, 352] Distance: 352
+Chars: HG Frequency: 2 Factors: [1, 2, 4, 5, 10, 20, 25, 50, 100] Distance: 100
+Chars: GF Frequency: 4 Factors: [1, 2, 3, 6, 11, 22, 33, 66] Distance: 66
+Chars: FM Frequency: 3 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: JD Frequency: 4 Factors: [1, 2, 23, 46] Distance: 46
+Chars: DF Frequency: 2 Factors: [1, 3, 5, 15, 25, 75, 125, 375] Distance: 375
+Chars: FV Frequency: 4 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: SZ Frequency: 3 Factors: [1, 2, 7, 14, 49, 98] Distance: 98
+Chars: ZU Frequency: 5 Factors: [1, 2, 3, 4, 6, 12] Distance: 12
+Chars: NX Frequency: 3 Factors: [1, 5, 43, 215] Distance: 215
+Chars: XT Frequency: 5 Factors: [1, 2, 4, 59, 118, 236] Distance: 236
+Chars: TW Frequency: 2 Factors: [1, 271] Distance: 271
+Chars: WH Frequency: 3 Factors: [1, 2, 4, 5, 10, 20] Distance: 20
+Chars: OL Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 150] Distance: 150
+Chars: LG Frequency: 5 Factors: [1, 7, 23, 161] Distance: 161
+Chars: GE Frequency: 4 Factors: [1, 5, 17, 85] Distance: 85
+Chars: EZ Frequency: 5 Factors: [1, 3, 5, 7, 15, 21, 35, 105] Distance: 105
+Chars: ZU Frequency: 5 Factors: [1, 2, 3, 4, 6, 12] Distance: 12
+Chars: UA Frequency: 3 Factors: [1, 5, 11, 25, 55, 275] Distance: 275
+Chars: AZ Frequency: 4 Factors: [1, 5, 11, 25, 55, 275] Distance: 275
+Chars: ZW Frequency: 8 Factors: [1, 5, 11, 25, 55, 275] Distance: 275
+Chars: OH Frequency: 2 Factors: [1, 5, 25, 125] Distance: 125
+Chars: HY Frequency: 2 Factors: [1, 89] Distance: 89
+Chars: LX Frequency: 5 Factors: [1, 2, 4, 8, 16, 32] Distance: 32
+Chars: XY Frequency: 4 Factors: [1, 2, 3, 5, 6, 9, 10, 15, 18, 27, 30, 45, 54, 90, 135, 270] Distance: 270
+Chars: CU Frequency: 2 Factors: [1, 3, 7, 21] Distance: 21
+Chars: US Frequency: 2 Factors: [1, 2, 5, 7, 10, 14, 35, 49, 70, 98, 245, 490] Distance: 490
+Chars: SA Frequency: 2 Factors: [1, 2, 5, 7, 10, 14, 35, 49, 70, 98, 245, 490] Distance: 490
+Chars: AF Frequency: 5 Factors: [1, 2, 5, 10, 19, 38, 95, 190] Distance: 190
+Chars: FN Frequency: 5 Factors: [1, 2, 5, 10, 19, 38, 95, 190] Distance: 190
+Chars: NG Frequency: 6 Factors: [1, 227] Distance: 227
+Chars: GG Frequency: 2 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: UU Frequency: 2 Factors: [1, 2, 3, 4, 6, 8, 12, 19, 24, 38, 57, 76, 114, 152, 228, 456] Distance: 456
+Chars: UK Frequency: 3 Factors: [1, 2, 3, 4, 6, 12] Distance: 12
+Chars: KV Frequency: 2 Factors: [1, 2, 4, 7, 8, 14, 16, 28, 56, 112] Distance: 112
+Chars: VW Frequency: 2 Factors: [1, 2, 5, 10, 25, 50] Distance: 50
+Chars: WH Frequency: 3 Factors: [1, 2, 5, 10, 25, 50] Distance: 50
+Chars: HS Frequency: 3 Factors: [1, 11] Distance: 11
+Chars: SS Frequency: 5 Factors: [1, 2, 5, 10, 29, 58, 145, 290] Distance: 290
+Chars: SH Frequency: 4 Factors: [1, 311] Distance: 311
+Chars: JD Frequency: 4 Factors: [1, 2, 23, 46] Distance: 46
+Chars: DU Frequency: 4 Factors: [1, 5, 61, 305] Distance: 305
+Chars: UC Frequency: 3 Factors: [1, 2, 4, 43, 86, 172] Distance: 172
+Chars: CU Frequency: 2 Factors: [1, 3, 7, 21] Distance: 21
+Chars: UK Frequency: 3 Factors: [1, 2, 3, 4, 6, 12] Distance: 12
+Chars: HS Frequency: 3 Factors: [1, 11] Distance: 11
+Chars: SW Frequency: 4 Factors: [1, 3, 9, 31, 93, 279] Distance: 279
+Chars: WN Frequency: 5 Factors: [1, 3, 103, 309] Distance: 309
+Chars: NG Frequency: 6 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: GX Frequency: 9 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: XL Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: LP Frequency: 4 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: PZ Frequency: 4 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: ZG Frequency: 5 Factors: [1, 2, 3, 6, 9, 18, 27, 54, 81, 162] Distance: 162
+Chars: GF Frequency: 4 Factors: [1, 2, 3, 6, 11, 22, 33, 66] Distance: 66
+Chars: FS Frequency: 2 Factors: [1, 2, 4, 79, 158, 316] Distance: 316
+Chars: ST Frequency: 2 Factors: [1, 5, 97, 485] Distance: 485
+Chars: TA Frequency: 4 Factors: [1, 5, 19, 95] Distance: 95
+Chars: AG Frequency: 3 Factors: [1, 2, 79, 158] Distance: 158
+Chars: GH Frequency: 5 Factors: [1, 41] Distance: 41
+Chars: HK Frequency: 2 Factors: [1, 2, 41, 82] Distance: 82
+Chars: KG Frequency: 4 Factors: [1, 3, 5, 7, 15, 21, 35, 105] Distance: 105
+Chars: GP Frequency: 3 Factors: [1, 3, 5, 7, 15, 21, 35, 105] Distance: 105
+Chars: PN Frequency: 3 Factors: [1, 5, 61, 305] Distance: 305
+Chars: NZ Frequency: 5 Factors: [1, 5, 13, 25, 65, 325] Distance: 325
+Chars: ZK Frequency: 4 Factors: [1, 2, 131, 262] Distance: 262
+Chars: KL Frequency: 2 Factors: [1, 347] Distance: 347
+Chars: LW Frequency: 5 Factors: [1, 3, 5, 11, 15, 33, 55, 165] Distance: 165
+Chars: WY Frequency: 4 Factors: [1, 2, 4, 5, 7, 8, 10, 14, 20, 28, 35, 40, 56, 70, 140, 280] Distance: 280
+Chars: YX Frequency: 5 Factors: [1, 2, 4, 5, 7, 8, 10, 14, 20, 28, 35, 40, 56, 70, 140, 280] Distance: 280
+Chars: X  Frequency: 4 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars:  L Frequency: 3 Factors: [1, 2, 5, 10, 23, 46, 115, 230] Distance: 230
+Chars: KM Frequency: 3 Factors: [1, 2, 173, 346] Distance: 346
+Chars: MS Frequency: 2 Factors: [1, 5, 13, 65] Distance: 65
+Chars: SH Frequency: 4 Factors: [1, 3, 9, 13, 27, 39, 117, 351] Distance: 351
+Chars: NK Frequency: 7 Factors: [1, 2, 4, 8, 16, 32, 64, 128, 256] Distance: 256
+Chars: KU Frequency: 8 Factors: [1, 5, 11, 25, 55, 275] Distance: 275
+Chars: UL Frequency: 10 Factors: [1, 2, 4, 5, 10, 20, 25, 50, 100] Distance: 100
+Chars: LO Frequency: 8 Factors: [1, 3, 5, 15, 17, 51, 85, 255] Distance: 255
+Chars: OA Frequency: 5 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: AX Frequency: 5 Factors: [1, 2, 41, 82] Distance: 82
+Chars: XZ Frequency: 7 Factors: [1, 2, 4, 8, 31, 62, 124, 248] Distance: 248
+Chars: VN Frequency: 4 Factors: [1, 3, 5, 7, 9, 15, 21, 35, 45, 63, 105, 315] Distance: 315
+Chars: NK Frequency: 7 Factors: [1, 2, 7, 14, 19, 38, 133, 266] Distance: 266
+Chars: KU Frequency: 8 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: UL Frequency: 10 Factors: [1, 2, 5, 10, 11, 22, 55, 110] Distance: 110
+Chars: LL Frequency: 3 Factors: [1, 2, 5, 10, 11, 22, 55, 110] Distance: 110
+Chars: LN Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 55, 110] Distance: 110
+Chars: NS Frequency: 2 Factors: [1, 2, 191, 382] Distance: 382
+Chars: SZ Frequency: 3 Factors: [1, 2, 7, 14, 49, 98] Distance: 98
+Chars: ZW Frequency: 8 Factors: [1, 2, 179, 358] Distance: 358
+Chars: WG Frequency: 6 Factors: [1, 3, 5, 15, 23, 69, 115, 345] Distance: 345
+Chars: GZ Frequency: 3 Factors: [1, 3, 5, 15, 25, 75, 125, 375] Distance: 375
+Chars: ZU Frequency: 5 Factors: [1, 101] Distance: 101
+Chars: GH Frequency: 5 Factors: [1, 41] Distance: 41
+Chars: GN Frequency: 3 Factors: [1, 293] Distance: 293
+Chars: NA Frequency: 6 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: AV Frequency: 3 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: VJ Frequency: 6 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: JG Frequency: 2 Factors: [1, 2, 3, 6, 47, 94, 141, 282] Distance: 282
+Chars: GF Frequency: 4 Factors: [1, 11, 121] Distance: 121
+Chars: FD Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: DE Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: EW Frequency: 4 Factors: [1, 2, 17, 34] Distance: 34
+Chars: WY Frequency: 4 Factors: [1, 5, 13, 25, 65, 325] Distance: 325
+Chars: YZ Frequency: 4 Factors: [1, 5, 73, 365] Distance: 365
+Chars: ZV Frequency: 3 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: VA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: AN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: NK Frequency: 7 Factors: [1, 2, 4, 8, 37, 74, 148, 296] Distance: 296
+Chars: KU Frequency: 8 Factors: [1, 3, 5, 7, 9, 15, 21, 35, 45, 63, 105, 315] Distance: 315
+Chars: UL Frequency: 10 Factors: [1, 2, 4, 5, 7, 10, 14, 20, 28, 35, 70, 140] Distance: 140
+Chars: LO Frequency: 8 Factors: [1, 5, 59, 295] Distance: 295
+Chars: OA Frequency: 5 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: AU Frequency: 5 Factors: [1, 2, 19, 38] Distance: 38
+Chars: UL Frequency: 10 Factors: [1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 36, 48, 72, 144] Distance: 144
+Chars: LX Frequency: 5 Factors: [1, 2, 4, 5, 7, 10, 14, 20, 28, 35, 70, 140] Distance: 140
+Chars: X  Frequency: 4 Factors: [1, 3, 7, 11, 21, 33, 77, 231] Distance: 231
+Chars:  E Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: EI Frequency: 3 Factors: [1, 2, 3, 5, 6, 10, 11, 15, 22, 30, 33, 55, 66, 110, 165, 330] Distance: 330
+Chars: IV Frequency: 5 Factors: [1, 2, 3, 4, 6, 12, 23, 46, 69, 92, 138, 276] Distance: 276
+Chars: VD Frequency: 4 Factors: [1, 2, 5, 10, 31, 62, 155, 310] Distance: 310
+Chars: DG Frequency: 2 Factors: [1, 347] Distance: 347
+Chars: GX Frequency: 9 Factors: [1, 3, 9, 37, 111, 333] Distance: 333
+Chars: XJ Frequency: 4 Factors: [1, 83] Distance: 83
+Chars: TU Frequency: 7 Factors: [1, 2, 191, 382] Distance: 382
+Chars: ZK Frequency: 4 Factors: [1, 5, 67, 335] Distance: 335
+Chars: KM Frequency: 3 Factors: [1, 3, 137, 411] Distance: 411
+Chars: MS Frequency: 2 Factors: [1, 5, 13, 65] Distance: 65
+Chars: SL Frequency: 2 Factors: [1, 2, 4, 5, 7, 10, 14, 20, 28, 35, 70, 140] Distance: 140
+Chars: CF Frequency: 4 Factors: [1, 2, 5, 7, 10, 14, 35, 70] Distance: 70
+Chars: FC Frequency: 2 Factors: [1, 2, 5, 10, 19, 38, 95, 190] Distance: 190
+Chars: EW Frequency: 4 Factors: [1, 2, 17, 34] Distance: 34
+Chars: WN Frequency: 5 Factors: [1, 409] Distance: 409
+Chars: UP Frequency: 2 Factors: [1, 13] Distance: 13
+Chars: XT Frequency: 5 Factors: [1, 2, 193, 386] Distance: 386
+Chars: TA Frequency: 4 Factors: [1, 5, 19, 95] Distance: 95
+Chars: AT Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: TN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: NK Frequency: 7 Factors: [1, 3, 9, 37, 111, 333] Distance: 333
+Chars: KG Frequency: 4 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: GE Frequency: 4 Factors: [1, 5, 47, 235] Distance: 235
+Chars: ET Frequency: 3 Factors: [1, 5, 47, 235] Distance: 235
+Chars: TU Frequency: 7 Factors: [1, 3, 5, 9, 15, 27, 45, 81, 135, 405] Distance: 405
+Chars: UA Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: AU Frequency: 5 Factors: [1, 2, 19, 38] Distance: 38
+Chars: UP Frequency: 2 Factors: [1, 13] Distance: 13
+Chars: PK Frequency: 2 Factors: [1, 2, 4, 7, 13, 14, 26, 28, 52, 91, 182, 364] Distance: 364
+Chars: KA Frequency: 2 Factors: [1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 32, 36, 48, 72, 96, 144, 288] Distance: 288
+Chars: AX Frequency: 5 Factors: [1, 2, 41, 82] Distance: 82
+Chars: XY Frequency: 4 Factors: [1, 2, 11, 19, 22, 38, 209, 418] Distance: 418
+Chars: YW Frequency: 2 Factors: [1, 2, 4, 5, 10, 19, 20, 38, 76, 95, 190, 380] Distance: 380
+Chars: LV Frequency: 2 Factors: [1, 2, 4, 47, 94, 188] Distance: 188
+Chars: VV Frequency: 3 Factors: [1, 11, 29, 319] Distance: 319
+Chars: V  Frequency: 2 Factors: [1, 2, 227, 454] Distance: 454
+Chars:  K Frequency: 3 Factors: [1, 2, 227, 454] Distance: 454
+Chars: KX Frequency: 3 Factors: [1, 2, 5, 7, 10, 14, 25, 35, 50, 70, 175, 350] Distance: 350
+Chars: XC Frequency: 2 Factors: [1, 2, 5, 7, 10, 14, 25, 35, 50, 70, 175, 350] Distance: 350
+Chars: HP Frequency: 4 Factors: [1, 2, 3, 4, 5, 6, 7, 10, 12, 14, 15, 20, 21, 28, 30, 35, 42, 60, 70, 84, 105, 140, 210, 420] Distance: 420
+Chars: PO Frequency: 5 Factors: [1, 5, 83, 415] Distance: 415
+Chars: OI Frequency: 3 Factors: [1, 2, 4, 8, 11, 16, 22, 32, 44, 88, 176, 352] Distance: 352
+Chars: IF Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: FG Frequency: 2 Factors: [1, 2, 4, 5, 10, 20, 23, 46, 92, 115, 230, 460] Distance: 460
+Chars: GX Frequency: 9 Factors: [1, 383] Distance: 383
+Chars: XR Frequency: 3 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: RA Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: AG Frequency: 3 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: GY Frequency: 7 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: YE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: EZ Frequency: 5 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: ZB Frequency: 5 Factors: [1, 2, 3, 4, 5, 6, 7, 10, 12, 14, 15, 20, 21, 28, 30, 35, 42, 60, 70, 84, 105, 140, 210, 420] Distance: 420
+Chars: BE Frequency: 3 Factors: [1, 2, 4, 7, 8, 14, 16, 28, 32, 56, 64, 112, 224, 448] Distance: 448
+Chars: EZ Frequency: 5 Factors: [1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 32, 36, 48, 72, 96, 144, 288] Distance: 288
+Chars: ZW Frequency: 8 Factors: [1, 5, 7, 13, 35, 65, 91, 455] Distance: 455
+Chars: WG Frequency: 6 Factors: [1, 2, 13, 17, 26, 34, 221, 442] Distance: 442
+Chars: GH Frequency: 5 Factors: [1, 3, 5, 9, 15, 27, 45, 135] Distance: 135
+Chars: WG Frequency: 6 Factors: [1, 5, 89, 445] Distance: 445
+Chars: GB Frequency: 2 Factors: [1, 139] Distance: 139
+Chars: GM Frequency: 2 Factors: [1, 5, 13, 25, 65, 325] Distance: 325
+Chars: ML Frequency: 3 Factors: [1, 3, 157, 471] Distance: 471
+Chars: LL Frequency: 3 Factors: [1, 2, 5, 10, 11, 22, 55, 110] Distance: 110
+Chars: LN Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 55, 110] Distance: 110
+Chars: FX Frequency: 4 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: XG Frequency: 6 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: GT Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: TL Frequency: 4 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: L  Frequency: 4 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars:  N Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: NA Frequency: 6 Factors: [1, 2, 3, 5, 6, 10, 11, 15, 22, 30, 33, 55, 66, 110, 165, 330] Distance: 330
+Chars: AU Frequency: 5 Factors: [1, 2, 4, 8, 11, 22, 44, 88] Distance: 88
+Chars: UC Frequency: 3 Factors: [1, 2, 4, 43, 86, 172] Distance: 172
+Chars: CF Frequency: 4 Factors: [1, 2, 5, 7, 10, 14, 35, 70] Distance: 70
+Chars: FN Frequency: 5 Factors: [1, 2, 5, 10, 19, 38, 95, 190] Distance: 190
+Chars: NX Frequency: 3 Factors: [1, 2, 5, 10, 43, 86, 215, 430] Distance: 430
+Chars: XJ Frequency: 4 Factors: [1, 83] Distance: 83
+Chars: JD Frequency: 4 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: VC Frequency: 2 Factors: [1, 2, 151, 302] Distance: 302
+Chars: DU Frequency: 4 Factors: [1, 2, 5, 7, 10, 14, 35, 49, 70, 98, 245, 490] Distance: 490
+Chars: JL Frequency: 5 Factors: [1, 5] Distance: 5
+Chars: M  Frequency: 2 Factors: [1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 32, 36, 48, 72, 96, 144, 288] Distance: 288
+Chars: JL Frequency: 5 Factors: [1, 5] Distance: 5
+Chars: LW Frequency: 5 Factors: [1, 3, 5, 11, 15, 33, 55, 165] Distance: 165
+Chars: WZ Frequency: 5 Factors: [1, 3, 5, 15, 31, 93, 155, 465] Distance: 465
+Chars: ZB Frequency: 5 Factors: [1, 3, 5, 15, 31, 93, 155, 465] Distance: 465
+Chars: BX Frequency: 3 Factors: [1, 3, 5, 15, 31, 93, 155, 465] Distance: 465
+Chars: XZ Frequency: 7 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 25, 40, 50, 80, 100, 200, 400] Distance: 400
+Chars: AF Frequency: 5 Factors: [1, 3, 5, 9, 15, 27, 45, 81, 135, 405] Distance: 405
+Chars: FM Frequency: 3 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: QZ Frequency: 3 Factors: [1, 5, 37, 185] Distance: 185
+Chars: ZC Frequency: 3 Factors: [1, 2, 4, 5, 7, 8, 10, 14, 20, 28, 35, 40, 56, 70, 140, 280] Distance: 280
+Chars: CG Frequency: 2 Factors: [1, 2, 3, 4, 6, 9, 12, 18, 27, 36, 54, 81, 108, 162, 324] Distance: 324
+Chars: OF Frequency: 4 Factors: [1, 2, 61, 122] Distance: 122
+Chars: FN Frequency: 5 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: NG Frequency: 6 Factors: [1, 2, 4, 113, 226, 452] Distance: 452
+Chars: GG Frequency: 2 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: GY Frequency: 7 Factors: [1, 3, 9, 13, 27, 39, 117, 351] Distance: 351
+Chars: KU Frequency: 8 Factors: [1, 2, 3, 5, 6, 9, 10, 15, 18, 25, 30, 45, 50, 75, 90, 150, 225, 450] Distance: 450
+Chars: UV Frequency: 4 Factors: [1, 2, 3, 5, 6, 9, 10, 15, 18, 25, 30, 45, 50, 75, 90, 150, 225, 450] Distance: 450
+Chars: VV Frequency: 3 Factors: [1, 3, 5, 9, 15, 27, 45, 81, 135, 405] Distance: 405
+Chars: VJ Frequency: 6 Factors: [1, 3, 5, 15, 25, 75, 125, 375] Distance: 375
+Chars: JZ Frequency: 2 Factors: [1, 2, 3, 4, 6, 8, 12, 13, 24, 26, 39, 52, 78, 104, 156, 312] Distance: 312
+Chars: ZC Frequency: 3 Factors: [1, 5, 59, 295] Distance: 295
+Chars: CF Frequency: 4 Factors: [1, 3, 9, 13, 39, 117] Distance: 117
+Chars: AX Frequency: 5 Factors: [1, 179] Distance: 179
+Chars: XR Frequency: 3 Factors: [1, 5, 73, 365] Distance: 365
+Chars: FQ Frequency: 3 Factors: [1, 3, 5, 15, 25, 75] Distance: 75
+Chars: QG Frequency: 3 Factors: [1, 2, 3, 5, 6, 10, 11, 15, 22, 30, 33, 55, 66, 110, 165, 330] Distance: 330
+Chars: GX Frequency: 9 Factors: [1, 2, 3, 4, 6, 9, 12, 13, 18, 26, 36, 39, 52, 78, 117, 156, 234, 468] Distance: 468
+Chars: XJ Frequency: 4 Factors: [1, 3, 5, 9, 15, 27, 45, 135] Distance: 135
+Chars: VH Frequency: 2 Factors: [1, 2, 4, 8, 16, 19, 38, 76, 152, 304] Distance: 304
+Chars: H  Frequency: 3 Factors: [1, 5, 109, 545] Distance: 545
+Chars:  A Frequency: 2 Factors: [1, 7, 47, 329] Distance: 329
+Chars: AJ Frequency: 3 Factors: [1, 2, 3, 6, 71, 142, 213, 426] Distance: 426
+Chars: JU Frequency: 2 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: UL Frequency: 10 Factors: [1, 5, 59, 295] Distance: 295
+Chars: LO Frequency: 8 Factors: [1, 2, 3, 5, 6, 9, 10, 15, 18, 25, 30, 45, 50, 75, 90, 150, 225, 450] Distance: 450
+Chars: OA Frequency: 5 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: AX Frequency: 5 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: XZ Frequency: 7 Factors: [1, 443] Distance: 443
+Chars: ZS Frequency: 5 Factors: [1, 5, 97, 485] Distance: 485
+Chars: SL Frequency: 2 Factors: [1, 2, 4, 5, 7, 10, 14, 20, 28, 35, 70, 140] Distance: 140
+Chars: LT Frequency: 2 Factors: [1, 2, 3, 4, 6, 8, 12, 23, 24, 46, 69, 92, 138, 184, 276, 552] Distance: 552
+Chars: ML Frequency: 3 Factors: [1, 2, 4, 139, 278, 556] Distance: 556
+Chars: LG Frequency: 5 Factors: [1, 3, 7, 9, 21, 49, 63, 147, 441] Distance: 441
+Chars: GE Frequency: 4 Factors: [1, 5, 73, 365] Distance: 365
+Chars: ET Frequency: 3 Factors: [1, 5, 73, 365] Distance: 365
+Chars: T  Frequency: 2 Factors: [1, 2, 3, 6, 7, 14, 21, 42] Distance: 42
+Chars:  G Frequency: 2 Factors: [1, 2, 197, 394] Distance: 394
+Chars: GY Frequency: 7 Factors: [1, 2, 3, 5, 6, 10, 13, 15, 26, 30, 39, 65, 78, 130, 195, 390] Distance: 390
+Chars: GN Frequency: 3 Factors: [1, 3, 7, 21, 23, 69, 161, 483] Distance: 483
+Chars: NA Frequency: 6 Factors: [1, 5, 83, 415] Distance: 415
+Chars: AV Frequency: 3 Factors: [1, 5, 83, 415] Distance: 415
+Chars: VJ Frequency: 6 Factors: [1, 5, 83, 415] Distance: 415
+Chars: JF Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60] Distance: 60
+Chars: FN Frequency: 5 Factors: [1, 5, 11, 25, 55, 275] Distance: 275
+Chars: N  Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 55, 110] Distance: 110
+Chars:  L Frequency: 3 Factors: [1, 2, 5, 10, 23, 46, 115, 230] Distance: 230
+Chars: KX Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 16, 20, 24, 30, 32, 40, 48, 60, 80, 96, 120, 160, 240, 480] Distance: 480
+Chars: XZ Frequency: 7 Factors: [1, 2, 3, 4, 6, 9, 12, 13, 18, 26, 36, 39, 52, 78, 117, 156, 234, 468] Distance: 468
+Chars: LP Frequency: 4 Factors: [1, 5, 101, 505] Distance: 505
+Chars: PZ Frequency: 4 Factors: [1, 5, 101, 505] Distance: 505
+Chars: ZG Frequency: 5 Factors: [1, 3, 139, 417] Distance: 417
+Chars: GF Frequency: 4 Factors: [1, 3, 107, 321] Distance: 321
+Chars: FD Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: DE Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: EW Frequency: 4 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: WY Frequency: 4 Factors: [1, 3, 5, 7, 15, 21, 25, 35, 75, 105, 175, 525] Distance: 525
+Chars: YZ Frequency: 4 Factors: [1, 5, 113, 565] Distance: 565
+Chars: ZV Frequency: 3 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: VA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: AN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: NK Frequency: 7 Factors: [1, 2, 4, 8, 16, 31, 62, 124, 248, 496] Distance: 496
+Chars: KU Frequency: 8 Factors: [1, 5, 103, 515] Distance: 515
+Chars: UK Frequency: 3 Factors: [1, 2, 5, 10, 29, 58, 145, 290] Distance: 290
+Chars: JD Frequency: 4 Factors: [1, 2, 3, 5, 6, 10, 11, 15, 22, 30, 33, 55, 66, 110, 165, 330] Distance: 330
+Chars: DK Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 80, 160] Distance: 160
+Chars: KG Frequency: 4 Factors: [1, 2, 4, 8, 16, 23, 46, 92, 184, 368] Distance: 368
+Chars: GX Frequency: 9 Factors: [1, 2, 263, 526] Distance: 526
+Chars: XZ Frequency: 7 Factors: [1, 2, 5, 7, 10, 14, 35, 49, 70, 98, 245, 490] Distance: 490
+Chars: ZW Frequency: 8 Factors: [1, 2, 5, 10, 59, 118, 295, 590] Distance: 590
+Chars: WZ Frequency: 5 Factors: [1, 2, 4, 5, 7, 8, 10, 14, 16, 20, 28, 35, 40, 56, 70, 80, 112, 140, 280, 560] Distance: 560
+Chars: ZB Frequency: 5 Factors: [1, 2, 4, 5, 7, 8, 10, 14, 16, 20, 28, 35, 40, 56, 70, 80, 112, 140, 280, 560] Distance: 560
+Chars: BT Frequency: 3 Factors: [1, 3, 5, 15, 31, 93, 155, 465] Distance: 465
+Chars: T  Frequency: 2 Factors: [1, 2, 3, 6, 7, 14, 21, 42] Distance: 42
+Chars:  W Frequency: 3 Factors: [1, 2, 5, 10, 13, 26, 65, 130] Distance: 130
+Chars: VL Frequency: 2 Factors: [1, 191] Distance: 191
+Chars: LG Frequency: 5 Factors: [1, 2, 5, 7, 10, 14, 35, 49, 70, 98, 245, 490] Distance: 490
+Chars: GB Frequency: 2 Factors: [1, 139] Distance: 139
+Chars: BX Frequency: 3 Factors: [1, 3, 7, 9, 21, 27, 63, 81, 189, 567] Distance: 567
+Chars: XH Frequency: 2 Factors: [1, 2, 4, 8, 11, 16, 22, 32, 44, 88, 176, 352] Distance: 352
+Chars: HF Frequency: 3 Factors: [1, 2, 4, 7, 14, 17, 28, 34, 68, 119, 238, 476] Distance: 476
+Chars: FQ Frequency: 3 Factors: [1, 3, 5, 15, 25, 75] Distance: 75
+Chars: QG Frequency: 3 Factors: [1, 3, 5, 9, 15, 27, 45, 81, 135, 405] Distance: 405
+Chars: GZ Frequency: 3 Factors: [1, 2, 4, 5, 10, 20, 31, 62, 124, 155, 310, 620] Distance: 620
+Chars: ZG Frequency: 5 Factors: [1, 2, 4, 113, 226, 452] Distance: 452
+Chars: GH Frequency: 5 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: HF Frequency: 3 Factors: [1, 2, 241, 482] Distance: 482
+Chars: FV Frequency: 4 Factors: [1, 17, 31, 527] Distance: 527
+Chars: PF Frequency: 2 Factors: [1, 5, 79, 395] Distance: 395
+Chars: FW Frequency: 4 Factors: [1, 5, 83, 415] Distance: 415
+Chars: XG Frequency: 6 Factors: [1, 571] Distance: 571
+Chars: GY Frequency: 7 Factors: [1, 11, 41, 451] Distance: 451
+Chars: YX Frequency: 5 Factors: [1, 2, 3, 4, 6, 12, 47, 94, 141, 188, 282, 564] Distance: 564
+Chars: XI Frequency: 2 Factors: [1, 2, 3, 6, 71, 142, 213, 426] Distance: 426
+Chars: CL Frequency: 3 Factors: [1, 3, 9, 59, 177, 531] Distance: 531
+Chars: LJ Frequency: 3 Factors: [1, 5, 113, 565] Distance: 565
+Chars: JF Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60] Distance: 60
+Chars: ZN Frequency: 2 Factors: [1, 2, 3, 6, 13, 26, 39, 78] Distance: 78
+Chars: LJ Frequency: 3 Factors: [1, 2, 3, 5, 6, 10, 15, 19, 30, 38, 57, 95, 114, 190, 285, 570] Distance: 570
+Chars: JF Frequency: 3 Factors: [1, 5, 13, 65] Distance: 65
+Chars: FQ Frequency: 3 Factors: [1, 3, 9, 11, 33, 99] Distance: 99
+Chars:  D Frequency: 3 Factors: [1, 2, 5, 10, 11, 22, 55, 110] Distance: 110
+Chars: DF Frequency: 2 Factors: [1, 3, 5, 15, 25, 75, 125, 375] Distance: 375
+Chars: OF Frequency: 4 Factors: [1, 2, 61, 122] Distance: 122
+Chars: FS Frequency: 2 Factors: [1, 2, 4, 79, 158, 316] Distance: 316
+Chars: CL Frequency: 3 Factors: [1, 2, 5, 10, 11, 22, 25, 50, 55, 110, 275, 550] Distance: 550
+Chars: LL Frequency: 3 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: L  Frequency: 4 Factors: [1, 2, 3, 6, 9, 11, 18, 22, 27, 33, 54, 66, 99, 198, 297, 594] Distance: 594
+Chars:  F Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: FX Frequency: 4 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: XG Frequency: 6 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: GT Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: TL Frequency: 4 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: L  Frequency: 4 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars:  N Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: NA Frequency: 6 Factors: [1, 5, 101, 505] Distance: 505
+Chars: AU Frequency: 5 Factors: [1, 263] Distance: 263
+Chars: UC Frequency: 3 Factors: [1, 347] Distance: 347
+Chars: CF Frequency: 4 Factors: [1, 5, 7, 35, 49, 245] Distance: 245
+Chars: JG Frequency: 2 Factors: [1, 2, 3, 6, 47, 94, 141, 282] Distance: 282
+Chars: AX Frequency: 5 Factors: [1, 2, 5, 10, 31, 62, 155, 310] Distance: 310
+Chars: UT Frequency: 3 Factors: [1, 2, 4, 5, 10, 20, 31, 62, 124, 155, 310, 620] Distance: 620
+Chars: TU Frequency: 7 Factors: [1, 2, 3, 6, 107, 214, 321, 642] Distance: 642
+Chars: WK Frequency: 2 Factors: [1, 2, 3, 6, 71, 142, 213, 426] Distance: 426
+Chars: TL Frequency: 4 Factors: [1, 2, 4, 5, 10, 20, 31, 62, 124, 155, 310, 620] Distance: 620
+Chars: ZS Frequency: 5 Factors: [1, 2, 5, 10, 61, 122, 305, 610] Distance: 610
+Chars: SP Frequency: 3 Factors: [1, 5, 7, 13, 35, 65, 91, 455] Distance: 455
+Chars: PO Frequency: 5 Factors: [1, 2, 4, 7, 14, 23, 28, 46, 92, 161, 322, 644] Distance: 644
+Chars: OF Frequency: 4 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 80, 160] Distance: 160
+Chars: FN Frequency: 5 Factors: [1, 5, 7, 11, 35, 55, 77, 385] Distance: 385
+Chars: N  Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 55, 110] Distance: 110
+Chars:  L Frequency: 3 Factors: [1, 2, 4, 5, 10, 17, 20, 34, 68, 85, 170, 340] Distance: 340
+Chars: LW Frequency: 5 Factors: [1, 3, 5, 15, 23, 69, 115, 345] Distance: 345
+Chars: UH Frequency: 2 Factors: [1, 3, 163, 489] Distance: 489
+Chars: HX Frequency: 2 Factors: [1, 5, 23, 25, 115, 575] Distance: 575
+Chars: XG Frequency: 6 Factors: [1, 2, 3, 4, 6, 12, 53, 106, 159, 212, 318, 636] Distance: 636
+Chars: GP Frequency: 3 Factors: [1, 2, 4, 5, 10, 20, 23, 46, 92, 115, 230, 460] Distance: 460
+Chars: PO Frequency: 5 Factors: [1, 5, 131, 655] Distance: 655
+Chars: GX Frequency: 9 Factors: [1, 3, 9, 23, 27, 69, 207, 621] Distance: 621
+Chars: XG Frequency: 6 Factors: [1, 641] Distance: 641
+Chars: GL Frequency: 2 Factors: [1, 2, 17, 34, 289, 578] Distance: 578
+Chars: LG Frequency: 5 Factors: [1, 2, 17, 34, 289, 578] Distance: 578
+Chars: GY Frequency: 7 Factors: [1, 523] Distance: 523
+Chars: SI Frequency: 4 Factors: [1, 2, 4, 5, 8, 10, 17, 20, 34, 40, 68, 85, 136, 170, 340, 680] Distance: 680
+Chars: QZ Frequency: 3 Factors: [1, 5, 37, 185] Distance: 185
+Chars: ZU Frequency: 5 Factors: [1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 27, 36, 48, 54, 72, 108, 144, 216, 432] Distance: 432
+Chars: UL Frequency: 10 Factors: [1, 2, 3, 5, 6, 9, 10, 15, 18, 25, 30, 45, 50, 75, 90, 150, 225, 450] Distance: 450
+Chars: LO Frequency: 8 Factors: [1, 5, 11, 55, 121, 605] Distance: 605
+Chars: OA Frequency: 5 Factors: [1, 2, 5, 7, 10, 14, 25, 35, 50, 70, 175, 350] Distance: 350
+Chars: YZ Frequency: 4 Factors: [1, 5, 137, 685] Distance: 685
+Chars: ZS Frequency: 5 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 128, 160, 320, 640] Distance: 640
+Chars: SZ Frequency: 3 Factors: [1, 2, 4, 5, 8, 10, 11, 20, 22, 40, 44, 55, 88, 110, 220, 440] Distance: 440
+Chars: ZN Frequency: 2 Factors: [1, 2, 3, 6, 13, 26, 39, 78] Distance: 78
+Chars: NZ Frequency: 5 Factors: [1, 2, 4, 5, 7, 10, 14, 20, 25, 28, 35, 50, 70, 100, 140, 175, 350, 700] Distance: 700
+Chars: ZE Frequency: 3 Factors: [1, 2, 4, 5, 8, 10, 17, 20, 34, 40, 68, 85, 136, 170, 340, 680] Distance: 680
+Chars: LO Frequency: 8 Factors: [1, 2, 4, 7, 8, 11, 14, 22, 28, 44, 56, 77, 88, 154, 308, 616] Distance: 616
+Chars: OF Frequency: 4 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: FV Frequency: 4 Factors: [1, 5, 25, 125, 625] Distance: 625
+Chars: VJ Frequency: 6 Factors: [1, 563] Distance: 563
+Chars: JL Frequency: 5 Factors: [1, 2, 4, 5, 10, 11, 20, 22, 44, 55, 110, 220] Distance: 220
+Chars: LW Frequency: 5 Factors: [1, 2, 4, 5, 10, 19, 20, 38, 76, 95, 190, 380] Distance: 380
+Chars: SI Frequency: 4 Factors: [1, 19, 37, 703] Distance: 703
+Chars: JL Frequency: 5 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: LW Frequency: 5 Factors: [1, 5, 7, 11, 35, 55, 77, 385] Distance: 385
+Chars: WJ Frequency: 2 Factors: [1, 2, 4, 13, 26, 52] Distance: 52
+Chars: YM Frequency: 2 Factors: [1, 2, 241, 482] Distance: 482
+Chars: EI Frequency: 3 Factors: [1, 2, 3, 5, 6, 10, 11, 15, 22, 30, 33, 55, 66, 110, 165, 330] Distance: 330
+Chars:  W Frequency: 3 Factors: [1, 2, 5, 10, 13, 26, 65, 130] Distance: 130
+Chars: WZ Frequency: 5 Factors: [1, 5, 139, 695] Distance: 695
+Chars: ZI Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 25, 50, 55, 110, 275, 550] Distance: 550
+Chars: IS Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 25, 50, 55, 110, 275, 550] Distance: 550
+Chars: SP Frequency: 3 Factors: [1, 5, 103, 515] Distance: 515
+Chars: IV Frequency: 5 Factors: [1, 3, 5, 15, 41, 123, 205, 615] Distance: 615
+Chars: FX Frequency: 4 Factors: [1, 691] Distance: 691
+Chars: XT Frequency: 5 Factors: [1, 2, 353, 706] Distance: 706
+Chars: TA Frequency: 4 Factors: [1, 5, 83, 415] Distance: 415
+Chars: AT Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: TN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: NS Frequency: 2 Factors: [1, 2, 191, 382] Distance: 382
+Chars: S  Frequency: 2 Factors: [1, 5] Distance: 5
+Chars:  D Frequency: 3 Factors: [1, 2, 5, 10, 11, 22, 55, 110] Distance: 110
+Chars: DG Frequency: 2 Factors: [1, 347] Distance: 347
+Chars: GH Frequency: 5 Factors: [1, 2, 3, 4, 5, 6, 7, 10, 12, 14, 15, 20, 21, 28, 30, 35, 42, 60, 70, 84, 105, 140, 210, 420] Distance: 420
+Chars: HS Frequency: 3 Factors: [1, 2, 223, 446] Distance: 446
+Chars: S  Frequency: 2 Factors: [1, 5] Distance: 5
+Chars:  D Frequency: 3 Factors: [1, 5, 23, 115] Distance: 115
+Chars: DK Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 80, 160] Distance: 160
+Chars: KU Frequency: 8 Factors: [1, 2, 4, 5, 8, 10, 17, 20, 34, 40, 68, 85, 136, 170, 340, 680] Distance: 680
+Chars: UU Frequency: 2 Factors: [1, 2, 3, 4, 6, 8, 12, 19, 24, 38, 57, 76, 114, 152, 228, 456] Distance: 456
+Chars: UL Frequency: 10 Factors: [1, 2, 11, 22, 23, 46, 253, 506] Distance: 506
+Chars: LO Frequency: 8 Factors: [1, 661] Distance: 661
+Chars: ZU Frequency: 5 Factors: [1, 2, 3, 4, 6, 12, 41, 82, 123, 164, 246, 492] Distance: 492
+Chars: UL Frequency: 10 Factors: [1, 2, 3, 5, 6, 10, 15, 17, 30, 34, 51, 85, 102, 170, 255, 510] Distance: 510
+Chars: LO Frequency: 8 Factors: [1, 5, 7, 19, 35, 95, 133, 665] Distance: 665
+Chars: OA Frequency: 5 Factors: [1, 2, 5, 10, 41, 82, 205, 410] Distance: 410
+Chars: AU Frequency: 5 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: UL Frequency: 10 Factors: [1, 2, 257, 514] Distance: 514
+Chars: LX Frequency: 5 Factors: [1, 2, 3, 5, 6, 10, 15, 17, 30, 34, 51, 85, 102, 170, 255, 510] Distance: 510
+Chars: X  Frequency: 4 Factors: [1, 601] Distance: 601
+Chars:  E Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: EI Frequency: 3 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: IV Frequency: 5 Factors: [1, 2, 17, 19, 34, 38, 323, 646] Distance: 646
+Chars: VD Frequency: 4 Factors: [1, 2, 4, 5, 8, 10, 17, 20, 34, 40, 68, 85, 136, 170, 340, 680] Distance: 680
+Chars: DS Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 30] Distance: 30
+Chars: SU Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 30] Distance: 30
+Chars: UF Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 30] Distance: 30
+Chars: FW Frequency: 4 Factors: [1, 2, 3, 5, 6, 10, 15, 19, 30, 38, 57, 95, 114, 190, 285, 570] Distance: 570
+Chars: WJ Frequency: 2 Factors: [1, 2, 4, 13, 26, 52] Distance: 52
+Chars: JL Frequency: 5 Factors: [1, 2, 4, 5, 7, 8, 10, 14, 20, 28, 35, 40, 56, 70, 140, 280] Distance: 280
+Chars: LX Frequency: 5 Factors: [1, 2, 3, 6, 9, 18, 29, 58, 87, 174, 261, 522] Distance: 522
+Chars: US Frequency: 2 Factors: [1, 2, 5, 7, 10, 14, 35, 49, 70, 98, 245, 490] Distance: 490
+Chars: SA Frequency: 2 Factors: [1, 2, 5, 7, 10, 14, 35, 49, 70, 98, 245, 490] Distance: 490
+Chars: AF Frequency: 5 Factors: [1, 2, 4, 5, 8, 10, 17, 20, 34, 40, 68, 85, 136, 170, 340, 680] Distance: 680
+Chars: FW Frequency: 4 Factors: [1, 2, 4, 5, 10, 20, 29, 58, 116, 145, 290, 580] Distance: 580
+Chars: M  Frequency: 2 Factors: [1, 2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 32, 36, 48, 72, 96, 144, 288] Distance: 288
+Chars:  W Frequency: 3 Factors: [1, 5, 37, 185] Distance: 185
+Chars: EW Frequency: 4 Factors: [1, 409] Distance: 409
+Chars: WQ Frequency: 2 Factors: [1, 587] Distance: 587
+Chars: QZ Frequency: 3 Factors: [1, 2, 4, 5, 7, 8, 10, 14, 20, 28, 35, 40, 56, 70, 140, 280] Distance: 280
+Chars: ZV Frequency: 3 Factors: [1, 409] Distance: 409
+Chars: VL Frequency: 2 Factors: [1, 191] Distance: 191
+Chars: LP Frequency: 4 Factors: [1, 5, 25, 29, 145, 725] Distance: 725
+Chars: PK Frequency: 2 Factors: [1, 2, 4, 7, 13, 14, 26, 28, 52, 91, 182, 364] Distance: 364
+Chars: KT Frequency: 2 Factors: [1, 5, 25, 31, 155, 775] Distance: 775
+Chars: VD Frequency: 4 Factors: [1, 2, 5, 10, 71, 142, 355, 710] Distance: 710
+Chars: DS Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 30] Distance: 30
+Chars: SU Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 30] Distance: 30
+Chars: UF Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 30] Distance: 30
+Chars: FM Frequency: 3 Factors: [1, 5, 109, 545] Distance: 545
+Chars: XJ Frequency: 4 Factors: [1, 13, 31, 403] Distance: 403
+Chars: XZ Frequency: 7 Factors: [1, 19, 37, 703] Distance: 703
+Chars: ZS Frequency: 5 Factors: [1, 5, 149, 745] Distance: 745
+Chars: ST Frequency: 2 Factors: [1, 5, 97, 485] Distance: 485
+Chars: TA Frequency: 4 Factors: [1, 5, 97, 485] Distance: 485
+Chars: AI Frequency: 3 Factors: [1, 2, 3, 6, 9, 18, 37, 74, 111, 222, 333, 666] Distance: 666
+Chars: BT Frequency: 3 Factors: [1, 2, 4, 5, 8, 10, 17, 20, 34, 40, 68, 85, 136, 170, 340, 680] Distance: 680
+Chars: TU Frequency: 7 Factors: [1, 2, 3, 4, 6, 8, 9, 11, 12, 18, 22, 24, 33, 36, 44, 66, 72, 88, 99, 132, 198, 264, 396, 792] Distance: 792
+Chars: UE Frequency: 3 Factors: [1, 2, 3, 4, 6, 8, 9, 11, 12, 18, 22, 24, 33, 36, 44, 66, 72, 88, 99, 132, 198, 264, 396, 792] Distance: 792
+Chars: GK Frequency: 2 Factors: [1, 2, 3, 6, 7, 14, 19, 21, 38, 42, 57, 114, 133, 266, 399, 798] Distance: 798
+
+Number of Characters: 3
+
+Chars: V K Frequency: 2 Factors: [1, 2, 227, 454] Distance: 454
+Chars: SH  Frequency: 2 Factors: [1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 27, 36, 54, 72, 108, 216] Distance: 216
+Chars: UAZ Frequency: 2 Factors: [1, 5, 11, 25, 55, 275] Distance: 275
+Chars: AZW Frequency: 2 Factors: [1, 5, 11, 25, 55, 275] Distance: 275
+Chars: ZWN Frequency: 2 Factors: [1, 2, 5, 10, 17, 34, 85, 170] Distance: 170
+Chars: RSS Frequency: 2 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: ZWG Frequency: 4 Factors: [1, 2, 61, 122] Distance: 122
+Chars: TUE Frequency: 2 Factors: [1, 2, 3, 4, 6, 8, 9, 11, 12, 18, 22, 24, 33, 36, 44, 66, 72, 88, 99, 132, 198, 264, 396, 792] Distance: 792
+Chars: UEH Frequency: 2 Factors: [1, 2, 5, 10, 13, 26, 65, 130] Distance: 130
+Chars: EHP Frequency: 2 Factors: [1, 5] Distance: 5
+Chars: PNZ Frequency: 3 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: NZE Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 17, 20, 34, 40, 68, 85, 136, 170, 340, 680] Distance: 680
+Chars: EHP Frequency: 2 Factors: [1, 5] Distance: 5
+Chars: HPO Frequency: 3 Factors: [1, 5, 19, 95] Distance: 95
+Chars: XTS Frequency: 2 Factors: [1, 173] Distance: 173
+Chars: WZB Frequency: 3 Factors: [1, 3, 5, 15, 31, 93, 155, 465] Distance: 465
+Chars: ZBX Frequency: 2 Factors: [1, 3, 5, 15, 31, 93, 155, 465] Distance: 465
+Chars: UTU Frequency: 2 Factors: [1, 2, 4, 5, 10, 20, 31, 62, 124, 155, 310, 620] Distance: 620
+Chars:  FX Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: FXG Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: XGT Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: GTL Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: TL  Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: L N Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: XYW Frequency: 2 Factors: [1, 2, 4, 5, 10, 19, 20, 38, 76, 95, 190, 380] Distance: 380
+Chars: WYX Frequency: 2 Factors: [1, 2, 4, 5, 7, 8, 10, 14, 20, 28, 35, 40, 56, 70, 140, 280] Distance: 280
+Chars: SWN Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: WNG Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: NGX Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: GXL Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: XLP Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: LPZ Frequency: 3 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: KUV Frequency: 2 Factors: [1, 2, 3, 5, 6, 9, 10, 15, 18, 25, 30, 45, 50, 75, 90, 150, 225, 450] Distance: 450
+Chars: KXC Frequency: 2 Factors: [1, 2, 5, 7, 10, 14, 25, 35, 50, 70, 175, 350] Distance: 350
+Chars: GLG Frequency: 2 Factors: [1, 2, 17, 34, 289, 578] Distance: 578
+Chars: UVV Frequency: 2 Factors: [1, 3, 5, 9, 15, 27, 45, 81, 135, 405] Distance: 405
+Chars: HPO Frequency: 3 Factors: [1, 5, 19, 95] Distance: 95
+Chars: POI Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: OIF Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: ZWG Frequency: 4 Factors: [1, 2, 61, 122] Distance: 122
+Chars: NAV Frequency: 3 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: AVJ Frequency: 3 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: UEH Frequency: 2 Factors: [1, 2, 5, 10, 13, 26, 65, 130] Distance: 130
+Chars: GXR Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: XRA Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: RAG Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: AGY Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: GYE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: YEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: EZB Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: ZBE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: BEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: EZW Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: ZWN Frequency: 2 Factors: [1, 2, 5, 10, 17, 34, 85, 170] Distance: 170
+Chars: WZI Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 25, 50, 55, 110, 275, 550] Distance: 550
+Chars: ZIS Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 25, 50, 55, 110, 275, 550] Distance: 550
+Chars: GET Frequency: 3 Factors: [1, 5, 47, 235] Distance: 235
+Chars: ETU Frequency: 2 Factors: [1, 5, 47, 235] Distance: 235
+Chars: YXI Frequency: 2 Factors: [1, 2, 3, 6, 71, 142, 213, 426] Distance: 426
+Chars: AFW Frequency: 2 Factors: [1, 2, 4, 5, 10, 20, 29, 58, 116, 145, 290, 580] Distance: 580
+Chars: QGX Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 11, 15, 22, 30, 33, 55, 66, 110, 165, 330] Distance: 330
+Chars: XTS Frequency: 2 Factors: [1, 173] Distance: 173
+Chars: SSH Frequency: 2 Factors: [1, 5, 19, 95] Distance: 95
+Chars: SH  Frequency: 2 Factors: [1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 27, 36, 54, 72, 108, 216] Distance: 216
+Chars: H A Frequency: 2 Factors: [1, 7, 47, 329] Distance: 329
+Chars: KGP Frequency: 2 Factors: [1, 3, 5, 7, 15, 21, 35, 105] Distance: 105
+Chars: GPN Frequency: 2 Factors: [1, 3, 5, 7, 15, 21, 35, 105] Distance: 105
+Chars: PNZ Frequency: 3 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: RSS Frequency: 2 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: KUL Frequency: 4 Factors: [1, 2, 4, 5, 10, 20, 25, 50, 100] Distance: 100
+Chars: VWH Frequency: 2 Factors: [1, 2, 5, 10, 25, 50] Distance: 50
+Chars: LGE Frequency: 2 Factors: [1, 2, 4, 5, 7, 8, 10, 14, 20, 28, 35, 40, 56, 70, 140, 280] Distance: 280
+Chars: UAZ Frequency: 2 Factors: [1, 5, 11, 25, 55, 275] Distance: 275
+Chars: AZW Frequency: 2 Factors: [1, 5, 11, 25, 55, 275] Distance: 275
+Chars: USA Frequency: 2 Factors: [1, 2, 5, 7, 10, 14, 35, 49, 70, 98, 245, 490] Distance: 490
+Chars: SAF Frequency: 2 Factors: [1, 2, 5, 7, 10, 14, 35, 49, 70, 98, 245, 490] Distance: 490
+Chars: FNG Frequency: 2 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: NGG Frequency: 2 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: VWH Frequency: 2 Factors: [1, 2, 5, 10, 25, 50] Distance: 50
+Chars: SSH Frequency: 2 Factors: [1, 5, 19, 95] Distance: 95
+Chars: SWN Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: WNG Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: NGX Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: GXL Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: XLP Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: LPZ Frequency: 3 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: PZG Frequency: 2 Factors: [1, 3, 5, 15, 17, 51, 85, 255] Distance: 255
+Chars: ZGF Frequency: 2 Factors: [1, 3, 5, 15, 17, 51, 85, 255] Distance: 255
+Chars: STA Frequency: 2 Factors: [1, 5, 97, 485] Distance: 485
+Chars: KGP Frequency: 2 Factors: [1, 3, 5, 7, 15, 21, 35, 105] Distance: 105
+Chars: GPN Frequency: 2 Factors: [1, 3, 5, 7, 15, 21, 35, 105] Distance: 105
+Chars: PNZ Frequency: 3 Factors: [1, 5, 61, 305] Distance: 305
+Chars: WYX Frequency: 2 Factors: [1, 2, 4, 5, 7, 8, 10, 14, 20, 28, 35, 40, 56, 70, 140, 280] Distance: 280
+Chars: KMS Frequency: 2 Factors: [1, 5, 13, 65] Distance: 65
+Chars: NKU Frequency: 4 Factors: [1, 2, 5, 10] Distance: 10
+Chars: KUL Frequency: 4 Factors: [1, 2, 4, 5, 10, 20, 25, 50, 100] Distance: 100
+Chars: ULO Frequency: 6 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: LOA Frequency: 5 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: OAX Frequency: 2 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: AXZ Frequency: 2 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: NKU Frequency: 4 Factors: [1, 2, 5, 10] Distance: 10
+Chars: KUL Frequency: 4 Factors: [1, 2, 5, 10, 11, 22, 55, 110] Distance: 110
+Chars: LLN Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 55, 110] Distance: 110
+Chars: ZWG Frequency: 4 Factors: [1, 3, 5, 15, 23, 69, 115, 345] Distance: 345
+Chars: GNA Frequency: 2 Factors: [1, 2, 5, 10, 19, 38, 95, 190] Distance: 190
+Chars: NAV Frequency: 3 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: AVJ Frequency: 3 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: GFD Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: FDE Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: DEW Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: EWY Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: WYZ Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: YZV Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: ZVA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: VAN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: ANK Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: NKU Frequency: 4 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: KUL Frequency: 4 Factors: [1, 2, 4, 5, 7, 10, 14, 20, 28, 35, 70, 140] Distance: 140
+Chars: ULO Frequency: 6 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: LOA Frequency: 5 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: OAU Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: AUL Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: ULX Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LX  Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: X E Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars:  EI Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: EIV Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: IVD Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: GXJ Frequency: 2 Factors: [1, 3, 5, 9, 15, 27, 45, 135] Distance: 135
+Chars: KMS Frequency: 2 Factors: [1, 5, 13, 65] Distance: 65
+Chars: XTA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: TAT Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: ATN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: GET Frequency: 3 Factors: [1, 5, 47, 235] Distance: 235
+Chars: ETU Frequency: 2 Factors: [1, 5, 47, 235] Distance: 235
+Chars: XYW Frequency: 2 Factors: [1, 2, 4, 5, 10, 19, 20, 38, 76, 95, 190, 380] Distance: 380
+Chars: V K Frequency: 2 Factors: [1, 2, 227, 454] Distance: 454
+Chars: KXC Frequency: 2 Factors: [1, 2, 5, 7, 10, 14, 25, 35, 50, 70, 175, 350] Distance: 350
+Chars: HPO Frequency: 3 Factors: [1, 5, 83, 415] Distance: 415
+Chars: POI Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: OIF Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: GXR Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: XRA Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: RAG Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: AGY Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: GYE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: YEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: EZB Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: ZBE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: BEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: EZW Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: ZWG Frequency: 4 Factors: [1, 2, 13, 17, 26, 34, 221, 442] Distance: 442
+Chars: LLN Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 55, 110] Distance: 110
+Chars: FXG Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: XGT Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: GTL Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: TL  Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: L N Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars:  NA Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: NAU Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: AUC Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: UCF Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: JLW Frequency: 3 Factors: [1, 5, 43, 215] Distance: 215
+Chars: WZB Frequency: 3 Factors: [1, 3, 5, 15, 31, 93, 155, 465] Distance: 465
+Chars: ZBX Frequency: 2 Factors: [1, 3, 5, 15, 31, 93, 155, 465] Distance: 465
+Chars: OFN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 80, 160] Distance: 160
+Chars: FNG Frequency: 2 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: NGG Frequency: 2 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: KUV Frequency: 2 Factors: [1, 2, 3, 5, 6, 9, 10, 15, 18, 25, 30, 45, 50, 75, 90, 150, 225, 450] Distance: 450
+Chars: UVV Frequency: 2 Factors: [1, 3, 5, 9, 15, 27, 45, 81, 135, 405] Distance: 405
+Chars: FQG Frequency: 2 Factors: [1, 3, 5, 15, 25, 75] Distance: 75
+Chars: QGX Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 11, 15, 22, 30, 33, 55, 66, 110, 165, 330] Distance: 330
+Chars: GXJ Frequency: 2 Factors: [1, 3, 5, 9, 15, 27, 45, 135] Distance: 135
+Chars: H A Frequency: 2 Factors: [1, 7, 47, 329] Distance: 329
+Chars: ULO Frequency: 6 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: LOA Frequency: 5 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: OAX Frequency: 2 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: AXZ Frequency: 2 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: XZS Frequency: 2 Factors: [1, 2, 4, 5, 10, 13, 20, 26, 52, 65, 130, 260] Distance: 260
+Chars: LGE Frequency: 2 Factors: [1, 2, 4, 5, 7, 8, 10, 14, 20, 28, 35, 40, 56, 70, 140, 280] Distance: 280
+Chars: GET Frequency: 3 Factors: [1, 5, 73, 365] Distance: 365
+Chars: GNA Frequency: 2 Factors: [1, 2, 5, 10, 19, 38, 95, 190] Distance: 190
+Chars: NAV Frequency: 3 Factors: [1, 5, 83, 415] Distance: 415
+Chars: AVJ Frequency: 3 Factors: [1, 5, 83, 415] Distance: 415
+Chars: FN  Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 55, 110] Distance: 110
+Chars: N L Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 55, 110] Distance: 110
+Chars: LPZ Frequency: 3 Factors: [1, 5, 101, 505] Distance: 505
+Chars: PZG Frequency: 2 Factors: [1, 3, 5, 15, 17, 51, 85, 255] Distance: 255
+Chars: ZGF Frequency: 2 Factors: [1, 3, 5, 15, 17, 51, 85, 255] Distance: 255
+Chars: GFD Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: FDE Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: DEW Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: EWY Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: WYZ Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: YZV Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: ZVA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: VAN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: ANK Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: NKU Frequency: 4 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 16, 20, 24, 30, 40, 48, 60, 80, 120, 240] Distance: 240
+Chars: WZB Frequency: 3 Factors: [1, 2, 4, 5, 7, 8, 10, 14, 16, 20, 28, 35, 40, 56, 70, 80, 112, 140, 280, 560] Distance: 560
+Chars: FQG Frequency: 2 Factors: [1, 3, 5, 15, 25, 75] Distance: 75
+Chars: YXI Frequency: 2 Factors: [1, 2, 3, 6, 71, 142, 213, 426] Distance: 426
+Chars: LJF Frequency: 2 Factors: [1, 5] Distance: 5
+Chars: LJF Frequency: 2 Factors: [1, 5] Distance: 5
+Chars:  FX Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: FXG Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: XGT Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: GTL Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: TL  Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: L N Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars:  NA Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: NAU Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: AUC Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: UCF Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: UTU Frequency: 2 Factors: [1, 2, 4, 5, 10, 20, 31, 62, 124, 155, 310, 620] Distance: 620
+Chars: OFN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 80, 160] Distance: 160
+Chars: FN  Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 55, 110] Distance: 110
+Chars: N L Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 55, 110] Distance: 110
+Chars: GLG Frequency: 2 Factors: [1, 2, 17, 34, 289, 578] Distance: 578
+Chars: ZUL Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60] Distance: 60
+Chars: ULO Frequency: 6 Factors: [1, 2, 5, 7, 10, 14, 25, 35, 50, 70, 175, 350] Distance: 350
+Chars: LOA Frequency: 5 Factors: [1, 2, 5, 7, 10, 14, 25, 35, 50, 70, 175, 350] Distance: 350
+Chars: NZE Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 17, 20, 34, 40, 68, 85, 136, 170, 340, 680] Distance: 680
+Chars: JLW Frequency: 3 Factors: [1, 5, 43, 215] Distance: 215
+Chars: JLW Frequency: 3 Factors: [1, 2, 4, 5, 10, 11, 20, 22, 44, 55, 110, 220] Distance: 220
+Chars: WZI Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 25, 50, 55, 110, 275, 550] Distance: 550
+Chars: ZIS Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 25, 50, 55, 110, 275, 550] Distance: 550
+Chars: XTA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: TAT Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: ATN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: S D Frequency: 2 Factors: [1, 5] Distance: 5
+Chars: S D Frequency: 2 Factors: [1, 5] Distance: 5
+Chars: ULO Frequency: 6 Factors: [1, 2, 7, 14, 29, 58, 203, 406] Distance: 406
+Chars: ZUL Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60] Distance: 60
+Chars: ULO Frequency: 6 Factors: [1, 2, 5, 10, 41, 82, 205, 410] Distance: 410
+Chars: LOA Frequency: 5 Factors: [1, 2, 5, 10, 41, 82, 205, 410] Distance: 410
+Chars: OAU Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: AUL Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: ULX Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LX  Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: X E Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars:  EI Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: EIV Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: IVD Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: VDS Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 30] Distance: 30
+Chars: DSU Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 30] Distance: 30
+Chars: SUF Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 30] Distance: 30
+Chars: USA Frequency: 2 Factors: [1, 2, 5, 7, 10, 14, 35, 49, 70, 98, 245, 490] Distance: 490
+Chars: SAF Frequency: 2 Factors: [1, 2, 5, 7, 10, 14, 35, 49, 70, 98, 245, 490] Distance: 490
+Chars: AFW Frequency: 2 Factors: [1, 2, 4, 5, 10, 20, 29, 58, 116, 145, 290, 580] Distance: 580
+Chars: VDS Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 30] Distance: 30
+Chars: DSU Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 30] Distance: 30
+Chars: SUF Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 30] Distance: 30
+Chars: XZS Frequency: 2 Factors: [1, 2, 4, 5, 10, 13, 20, 26, 52, 65, 130, 260] Distance: 260
+Chars: STA Frequency: 2 Factors: [1, 5, 97, 485] Distance: 485
+Chars: TUE Frequency: 2 Factors: [1, 2, 3, 4, 6, 8, 9, 11, 12, 18, 22, 24, 33, 36, 44, 66, 72, 88, 99, 132, 198, 264, 396, 792] Distance: 792
+
+Number of Characters: 4
+
+Chars: UAZW Frequency: 2 Factors: [1, 5, 11, 25, 55, 275] Distance: 275
+Chars: WZBX Frequency: 2 Factors: [1, 3, 5, 15, 31, 93, 155, 465] Distance: 465
+Chars:  FXG Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: FXGT Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: XGTL Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: GTL  Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: TL N Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: SWNG Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: WNGX Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: NGXL Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: GXLP Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: XLPZ Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: HPOI Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: POIF Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: NAVJ Frequency: 3 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: GXRA Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: XRAG Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: RAGY Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: AGYE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: GYEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: YEZB Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: EZBE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: ZBEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: BEZW Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: WZIS Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 25, 50, 55, 110, 275, 550] Distance: 550
+Chars: GETU Frequency: 2 Factors: [1, 5, 47, 235] Distance: 235
+Chars: KGPN Frequency: 2 Factors: [1, 3, 5, 7, 15, 21, 35, 105] Distance: 105
+Chars: GPNZ Frequency: 2 Factors: [1, 3, 5, 7, 15, 21, 35, 105] Distance: 105
+Chars: UAZW Frequency: 2 Factors: [1, 5, 11, 25, 55, 275] Distance: 275
+Chars: USAF Frequency: 2 Factors: [1, 2, 5, 7, 10, 14, 35, 49, 70, 98, 245, 490] Distance: 490
+Chars: FNGG Frequency: 2 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: SWNG Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: WNGX Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: NGXL Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: GXLP Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: XLPZ Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: LPZG Frequency: 2 Factors: [1, 3, 5, 15, 17, 51, 85, 255] Distance: 255
+Chars: PZGF Frequency: 2 Factors: [1, 3, 5, 15, 17, 51, 85, 255] Distance: 255
+Chars: KGPN Frequency: 2 Factors: [1, 3, 5, 7, 15, 21, 35, 105] Distance: 105
+Chars: GPNZ Frequency: 2 Factors: [1, 3, 5, 7, 15, 21, 35, 105] Distance: 105
+Chars: NKUL Frequency: 3 Factors: [1, 2, 5, 10] Distance: 10
+Chars: KULO Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: ULOA Frequency: 5 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: LOAX Frequency: 2 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: OAXZ Frequency: 2 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: NKUL Frequency: 3 Factors: [1, 2, 5, 10] Distance: 10
+Chars: GNAV Frequency: 2 Factors: [1, 2, 5, 10, 19, 38, 95, 190] Distance: 190
+Chars: NAVJ Frequency: 3 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: GFDE Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: FDEW Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: DEWY Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: EWYZ Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: WYZV Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: YZVA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: ZVAN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: VANK Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: ANKU Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: NKUL Frequency: 3 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: KULO Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: ULOA Frequency: 5 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: LOAU Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: OAUL Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: AULX Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: ULX  Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LX E Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: X EI Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars:  EIV Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: EIVD Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: XTAT Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: TATN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: GETU Frequency: 2 Factors: [1, 5, 47, 235] Distance: 235
+Chars: HPOI Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: POIF Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: GXRA Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: XRAG Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: RAGY Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: AGYE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: GYEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: YEZB Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: EZBE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: ZBEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: BEZW Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: FXGT Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: XGTL Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: GTL  Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: TL N Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: L NA Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars:  NAU Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: NAUC Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: AUCF Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: WZBX Frequency: 2 Factors: [1, 3, 5, 15, 31, 93, 155, 465] Distance: 465
+Chars: FNGG Frequency: 2 Factors: [1, 3, 5, 9, 15, 25, 45, 75, 225] Distance: 225
+Chars: ULOA Frequency: 5 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: LOAX Frequency: 2 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: OAXZ Frequency: 2 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: GNAV Frequency: 2 Factors: [1, 2, 5, 10, 19, 38, 95, 190] Distance: 190
+Chars: NAVJ Frequency: 3 Factors: [1, 5, 83, 415] Distance: 415
+Chars: FN L Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 55, 110] Distance: 110
+Chars: LPZG Frequency: 2 Factors: [1, 3, 5, 15, 17, 51, 85, 255] Distance: 255
+Chars: PZGF Frequency: 2 Factors: [1, 3, 5, 15, 17, 51, 85, 255] Distance: 255
+Chars: GFDE Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: FDEW Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: DEWY Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: EWYZ Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: WYZV Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: YZVA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: ZVAN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: VANK Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: ANKU Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars:  FXG Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: FXGT Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: XGTL Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: GTL  Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: TL N Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: L NA Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars:  NAU Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: NAUC Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: AUCF Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: FN L Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 55, 110] Distance: 110
+Chars: ZULO Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60] Distance: 60
+Chars: ULOA Frequency: 5 Factors: [1, 2, 5, 7, 10, 14, 25, 35, 50, 70, 175, 350] Distance: 350
+Chars: WZIS Frequency: 2 Factors: [1, 2, 5, 10, 11, 22, 25, 50, 55, 110, 275, 550] Distance: 550
+Chars: XTAT Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: TATN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: ZULO Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60] Distance: 60
+Chars: ULOA Frequency: 5 Factors: [1, 2, 5, 10, 41, 82, 205, 410] Distance: 410
+Chars: LOAU Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: OAUL Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: AULX Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: ULX  Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LX E Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: X EI Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars:  EIV Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: EIVD Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: VDSU Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 30] Distance: 30
+Chars: DSUF Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 30] Distance: 30
+Chars: USAF Frequency: 2 Factors: [1, 2, 5, 7, 10, 14, 35, 49, 70, 98, 245, 490] Distance: 490
+Chars: VDSU Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 30] Distance: 30
+Chars: DSUF Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 30] Distance: 30
+
+Number of Characters: 5
+
+Chars:  FXGT Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: FXGTL Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: XGTL  Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: GTL N Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: SWNGX Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: WNGXL Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: NGXLP Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: GXLPZ Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: HPOIF Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: GXRAG Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: XRAGY Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: RAGYE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: AGYEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: GYEZB Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: YEZBE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: EZBEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: ZBEZW Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: KGPNZ Frequency: 2 Factors: [1, 3, 5, 7, 15, 21, 35, 105] Distance: 105
+Chars: SWNGX Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: WNGXL Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: NGXLP Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: GXLPZ Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: LPZGF Frequency: 2 Factors: [1, 3, 5, 15, 17, 51, 85, 255] Distance: 255
+Chars: KGPNZ Frequency: 2 Factors: [1, 3, 5, 7, 15, 21, 35, 105] Distance: 105
+Chars: NKULO Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: KULOA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: ULOAX Frequency: 2 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: LOAXZ Frequency: 2 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: GNAVJ Frequency: 2 Factors: [1, 2, 5, 10, 19, 38, 95, 190] Distance: 190
+Chars: GFDEW Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: FDEWY Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: DEWYZ Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: EWYZV Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: WYZVA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: YZVAN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: ZVANK Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: VANKU Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: NKULO Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: KULOA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: ULOAU Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LOAUL Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: OAULX Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: AULX  Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: ULX E Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LX EI Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: X EIV Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars:  EIVD Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: XTATN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: HPOIF Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: GXRAG Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: XRAGY Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: RAGYE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: AGYEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: GYEZB Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: YEZBE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: EZBEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: ZBEZW Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: FXGTL Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: XGTL  Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: GTL N Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: TL NA Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: L NAU Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars:  NAUC Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: NAUCF Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: ULOAX Frequency: 2 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: LOAXZ Frequency: 2 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: GNAVJ Frequency: 2 Factors: [1, 2, 5, 10, 19, 38, 95, 190] Distance: 190
+Chars: LPZGF Frequency: 2 Factors: [1, 3, 5, 15, 17, 51, 85, 255] Distance: 255
+Chars: GFDEW Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: FDEWY Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: DEWYZ Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: EWYZV Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: WYZVA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: YZVAN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: ZVANK Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: VANKU Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars:  FXGT Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: FXGTL Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: XGTL  Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: GTL N Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: TL NA Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: L NAU Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars:  NAUC Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: NAUCF Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: ZULOA Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60] Distance: 60
+Chars: XTATN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 16, 20, 32, 40, 64, 80, 160, 320] Distance: 320
+Chars: ZULOA Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60] Distance: 60
+Chars: ULOAU Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LOAUL Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: OAULX Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: AULX  Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: ULX E Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LX EI Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: X EIV Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars:  EIVD Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: VDSUF Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 30] Distance: 30
+Chars: VDSUF Frequency: 2 Factors: [1, 2, 3, 5, 6, 10, 15, 30] Distance: 30
+
+Number of Characters: 6
+
+Chars:  FXGTL Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: FXGTL  Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: XGTL N Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: SWNGXL Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: WNGXLP Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: NGXLPZ Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: GXRAGY Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: XRAGYE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: RAGYEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: AGYEZB Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: GYEZBE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: YEZBEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: EZBEZW Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: SWNGXL Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: WNGXLP Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: NGXLPZ Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: NKULOA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: ULOAXZ Frequency: 2 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: GFDEWY Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: FDEWYZ Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: DEWYZV Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: EWYZVA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: WYZVAN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: YZVANK Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: ZVANKU Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: NKULOA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 40] Distance: 40
+Chars: ULOAUL Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LOAULX Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: OAULX  Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: AULX E Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: ULX EI Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LX EIV Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: X EIVD Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: GXRAGY Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: XRAGYE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: RAGYEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: AGYEZB Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: GYEZBE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: YEZBEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: EZBEZW Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: FXGTL  Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: XGTL N Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: GTL NA Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: TL NAU Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: L NAUC Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars:  NAUCF Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: ULOAXZ Frequency: 2 Factors: [1, 3, 5, 13, 15, 39, 65, 195] Distance: 195
+Chars: GFDEWY Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: FDEWYZ Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: DEWYZV Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: EWYZVA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: WYZVAN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: YZVANK Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: ZVANKU Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars:  FXGTL Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: FXGTL  Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: XGTL N Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: GTL NA Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: TL NAU Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: L NAUC Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars:  NAUCF Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: ULOAUL Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LOAULX Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: OAULX  Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: AULX E Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: ULX EI Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LX EIV Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: X EIVD Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+
+Number of Characters: 7
+
+Chars:  FXGTL  Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: FXGTL N Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: SWNGXLP Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: WNGXLPZ Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: GXRAGYE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: XRAGYEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: RAGYEZB Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: AGYEZBE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: GYEZBEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: YEZBEZW Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: SWNGXLP Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: WNGXLPZ Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: GFDEWYZ Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: FDEWYZV Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: DEWYZVA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: EWYZVAN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: WYZVANK Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: YZVANKU Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: ULOAULX Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LOAULX  Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: OAULX E Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: AULX EI Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: ULX EIV Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LX EIVD Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: GXRAGYE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: XRAGYEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: RAGYEZB Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: AGYEZBE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: GYEZBEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: YEZBEZW Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: FXGTL N Frequency: 3 Factors: [1, 5, 17, 25, 85, 425] Distance: 425
+Chars: XGTL NA Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: GTL NAU Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: TL NAUC Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: L NAUCF Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: GFDEWYZ Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: FDEWYZV Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: DEWYZVA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: EWYZVAN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: WYZVANK Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: YZVANKU Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars:  FXGTL  Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: FXGTL N Frequency: 3 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: XGTL NA Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: GTL NAU Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: TL NAUC Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: L NAUCF Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: ULOAULX Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LOAULX  Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: OAULX E Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: AULX EI Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: ULX EIV Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LX EIVD Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+
+Number of Characters: 8
+
+Chars:  FXGTL N Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: SWNGXLPZ Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: GXRAGYEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: XRAGYEZB Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: RAGYEZBE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: AGYEZBEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: GYEZBEZW Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: SWNGXLPZ Frequency: 2 Factors: [1, 2, 5, 10, 25, 50, 125, 250] Distance: 250
+Chars: GFDEWYZV Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: FDEWYZVA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: DEWYZVAN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: EWYZVANK Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: WYZVANKU Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: ULOAULX  Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LOAULX E Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: OAULX EI Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: AULX EIV Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: ULX EIVD Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: GXRAGYEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: XRAGYEZB Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: RAGYEZBE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: AGYEZBEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: GYEZBEZW Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: FXGTL NA Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: XGTL NAU Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: GTL NAUC Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: TL NAUCF Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: GFDEWYZV Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: FDEWYZVA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: DEWYZVAN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: EWYZVANK Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: WYZVANKU Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars:  FXGTL N Frequency: 2 Factors: [1, 2, 3, 4, 5, 6, 8, 10, 12, 15, 20, 24, 25, 30, 40, 50, 60, 75, 100, 120, 150, 200, 300, 600] Distance: 600
+Chars: FXGTL NA Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: XGTL NAU Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: GTL NAUC Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: TL NAUCF Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: ULOAULX  Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LOAULX E Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: OAULX EI Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: AULX EIV Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: ULX EIVD Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+
+Number of Characters: 9
+
+Chars: GXRAGYEZB Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: XRAGYEZBE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: RAGYEZBEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: AGYEZBEZW Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: GFDEWYZVA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: FDEWYZVAN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: DEWYZVANK Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: EWYZVANKU Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: ULOAULX E Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LOAULX EI Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: OAULX EIV Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: AULX EIVD Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: GXRAGYEZB Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: XRAGYEZBE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: RAGYEZBEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: AGYEZBEZW Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: FXGTL NAU Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: XGTL NAUC Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: GTL NAUCF Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: GFDEWYZVA Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: FDEWYZVAN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: DEWYZVANK Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: EWYZVANKU Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: FXGTL NAU Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: XGTL NAUC Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: GTL NAUCF Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: ULOAULX E Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LOAULX EI Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: OAULX EIV Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: AULX EIVD Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+
+Number of Characters: 10
+
+Chars: GXRAGYEZBE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: XRAGYEZBEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: RAGYEZBEZW Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: GFDEWYZVAN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: FDEWYZVANK Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: DEWYZVANKU Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: ULOAULX EI Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LOAULX EIV Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: OAULX EIVD Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: GXRAGYEZBE Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: XRAGYEZBEZ Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: RAGYEZBEZW Frequency: 2 Factors: [1, 3, 5, 15, 19, 57, 95, 285] Distance: 285
+Chars: FXGTL NAUC Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: XGTL NAUCF Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: GFDEWYZVAN Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: FDEWYZVANK Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: DEWYZVANKU Frequency: 2 Factors: [1, 2, 4, 5, 8, 10, 20, 25, 40, 50, 100, 200] Distance: 200
+Chars: FXGTL NAUC Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: XGTL NAUCF Frequency: 2 Factors: [1, 5, 7, 25, 35, 175] Distance: 175
+Chars: ULOAULX EI Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: LOAULX EIV Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
+Chars: OAULX EIVD Frequency: 2 Factors: [1, 2, 5, 10, 37, 74, 185, 370] Distance: 370
